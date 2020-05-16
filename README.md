@@ -36,6 +36,8 @@ helicopter AP: 1.0
 pushback AP: 1.0  
 fighter AP: 1.0  
 mAP = 0.7821084224668123  
+### Prediction  
+![faster](Result/faster.png)  
 ### 2. RetinaNet RCNN
 ![RetinaNet](Architecture/retina.png)
 ### Quantitative Results
@@ -57,6 +59,8 @@ mAP = 0.7821084224668123
 Inference time for 747 images: 0.3206  
 mAP using the weighted average of precisions among classes: 0.4255  
 mAP: 0.1381  
+### Prediction  
+![retina](Result/retina.png)  
 ### 3. YOLOV3
 ![YOLOV3](Architecture/yolov3.png)
 ### Quantitative Results
@@ -76,3 +80,5 @@ trainer: 0.2326
 truck: 0.2090  
 van: 0.1532  
 mAP: 0.2028  
+### Prediction  
+![yolo](Result/yolo.jpg)  
