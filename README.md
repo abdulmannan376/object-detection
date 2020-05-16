@@ -62,3 +62,20 @@ mAP using the weighted average of precisions among classes: 0.4255
 mAP: 0.1381  
 ### 3. YOLOV3
 ![YOLOV3](Architecture/yolov3.png)
+### Quantitative Results
+airliner: 0.4249  
+boat: 0.4690  
+bus: 0.1306  
+car: 0.5915  
+chartered: 0.5114  
+fighter: 0.0000  
+helicopter: 0.0006  
+longvehicle: 0.1432  
+other: 0.0002  
+propeller: 0.1607  
+pushbacktruck: 0.0149  
+stairtruck: 0.0005  
+trainer: 0.2326  
+truck: 0.2090  
+van: 0.1532  
+mAP: 0.2028  
